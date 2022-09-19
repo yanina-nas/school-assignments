@@ -1,6 +1,8 @@
 ## General considerations
 
-I like when a blog or a website has interesting content and visuals do not provocate. I feel distracted when I see fancy animations, stimulating colors, 3D, sophisticated design. Like I'm in a race or something. As a person, I value growth, not competition. There is no winner here. We can all grow and it will lead to a better future for everyone.
+I like when a blog or a website has interesting content and visuals do not provocate. I feel distracted when I see fancy animations, stimulating colors, 3D, sophisticated design. Like I'm in a race or something. 
+
+As a person, I value growth rather than competition, and I want to communicate that idea through the look and feel of my website. I want to wave to ones from places that generally share these values and to close from those with excessive competitiveness. I don't want to get stuck in passive agressive fights about one's place in a food chain.
 
 I want to engage people to read when they stop by to see my website. I want them to feel that they are taken care of, with details that account for a smooth experience. I don't want them to compare, and to feel bad (or good) about their personal site. 
 
